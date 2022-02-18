@@ -10,7 +10,7 @@ public class Authentication
 		Scanner input = new Scanner(System.in);
 
 		int []accountNumber = {100100,100200,100300,100400,100500};
-		String []password = {"2020-aaa","2020-bbb","2020-ccc","2020-ddd","2020-eee"};
+		String []password = {"100,aaa","100,bbb","100,ccc","100,ddd","100,eee"};
 		
 		boolean ok = true;
 
